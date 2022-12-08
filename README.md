@@ -1,4 +1,15 @@
 # B6-Analysis-of-Influencing-Factors-in-Global-Film-Rating
+BA780 Subject Of Questrom School Of Business, Boston University, 
+Done under Prof. Mohammad Soltanieh Ha,  as EDA for Analysis of Influencing Factors in Global Film Rating
+Dated 7th December 2022.
+
+Contributors to this project as teams members are listed here:
+1. Tao Li
+2. Boyuan Zhang
+3. Hengyuan Cao
+4. Abdullah Aljarallah
+5. Weichu Zou
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/2560px-IMDB_Logo_2016.svg.png)
 **Project Proposal:** Improving the rating of a movie/TV series will inevitably increase its box office revenue, and understanding the different factors contributing to a movie’s high rating explains its success. We look at over 2.5 million rows of movies and TV series from the IMDB website to understand people's preferences in a show’s composition, and we also look for ways to increase a show’s rating based on selected data. In addition, we analyze the relationship between the rating of movies and their compositions (duration/votes/certificate/etc.) to provide recommendations to increase revenue for production companies.
 
